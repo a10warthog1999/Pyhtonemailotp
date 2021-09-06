@@ -97,8 +97,6 @@ root.mainloop()
 
 
 
-#shahzaib.b@somaiya.edu
-#qjymnwxrfuykbubv
 
 
         
